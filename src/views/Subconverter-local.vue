@@ -585,7 +585,7 @@ export default {
   },
   mounted() {
     this.form.clientType = "clash&new_name=true";
-    this.form.customBackend = "https://sub-beta.now.sh/sub?";
+    this.form.customBackend = "https://renzheapi.com/sub?";
     this.form.remoteConfig = "config/ACL4SSR.ini";
     this.getBackendVersion();
   },
