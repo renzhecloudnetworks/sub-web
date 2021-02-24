@@ -274,16 +274,6 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "忍者云",
-            options: [
-              {
-                label: "负载均衡",
-                value:
-                  "https://ghproxy.com/https://raw.githubusercontent.com/SereneWindCoding/Rules/main/RenzheCloud-Loadbalance.ini"
-              }
-            ]
-          },
-	   {
             label: "ACL4SSR",
             options: [
               {
@@ -400,6 +390,16 @@ export default {
               {
                 label: "ACL4SSR_WithGFW 本地 GFW列表",
                 value: "config/ACL4SSR_WithGFW.ini"
+              }
+            ]
+          },
+          {
+            label: "忍者云",
+            options: [
+              {
+                label: "负载均衡",
+                value:
+                  "https://ghproxy.com/https://raw.githubusercontent.com/SereneWindCoding/Rules/main/RenzheCloud-Loadbalance.ini"
               }
             ]
           }
