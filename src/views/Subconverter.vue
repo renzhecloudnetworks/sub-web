@@ -399,7 +399,7 @@ export default {
               {
                 label: "负载均衡",
                 value:
-                  "https://ghproxy.com/https://raw.githubusercontent.com/SereneWindCoding/Rules/main/RenzheCloud-Loadbalance.ini"
+                  "https://ghproxy.com/https://cdn.jsdelivr.net/gh/SereneWindCoding/Rules@main/RenzheCloud-Loadbalance.ini"
               }
             ]
           }
